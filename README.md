@@ -1,5 +1,5 @@
 ## CCA ##
-Paper: Continuous Cost Aggregation for Dual-Pixel Disparity Extraction
+Paper: Continuous Cost Aggregation for Dual-Pixel Disparity Extraction //
 Link: https://arxiv.org/abs/2306.07921
 
 
