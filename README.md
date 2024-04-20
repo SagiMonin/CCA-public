@@ -17,6 +17,11 @@ Link to paper: https://arxiv.org/abs/2306.07921
 3. demo_csgm_stereo+bilaterl_filter_csgm.py: test on middlebury data (3 in data).
 4. demo_sgm_stereo+bilaterl_filter_sgm.py: Adapted SGM on middlebury data (3 in data).
 
+# How to use
+1. Add all files to path.
+2. Run one of the above demos.
+3. OpenCV for Matlab might need to be installed to load images.
+
 # Data:
 
 1. DP-data:
