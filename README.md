@@ -1,7 +1,7 @@
 ## CCA ##
 
 # Description folders
-1. CSGM : folder containing all implementations divided based on data used (DP-DSLR/PHONE, Stereo, Stereo with y-offset).
+1. CSGM : folder containing all implementations divided based on data used (DP-DSLR/PHONE, Stereo).
 2. demo_DP: folder with different demo files for DP data: DSLR + Google phone
 3. demo_Stereo: folder with demo for traditional stereo - comparison between C-SGM and SGM. Filter is the same for both SGM and C-SGM (names are changed).
 4. DP_data_example: example data of DP-DSLR/PHONE
