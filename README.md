@@ -1,4 +1,4 @@
-## C-SGM - This is not to be published. Main parts of the code
+## CCA ##
 
 # Description folders
 1. CSGM : folder containing all implementations divided based on data used (DP-DSLR/PHONE, Stereo, Stereo with y-offset).
@@ -8,9 +8,6 @@
 5. Stereo_data_example: example data of Stereo middlebury at Quarter resultion. 
 6. evaluate_funcs: functions used for evaluation
 7. openCvMatlab : this is complied for windows, might need to mex-install in different eviorment 
-8. other_algos: other algorithms used
-9. test_scripts_CSGM: conatins scripts to check different hyper parameters depending on data-set
-10. Figure_paper: figures of paper
 
 # Demos: 
 1. demo_csgm_DSLR_quantitive - test on DSLR data set (1 in data)
@@ -33,11 +30,6 @@ https://github.com/google-research/google-research/blob/master/dual_pixels/READM
 3. Stereo middlebury:
 https://vision.middlebury.edu/stereo/submit3/
 
-Not used currently:
-4. Holopix50k: https://github.com/LeiaInc/holopix50k
-5. Sentinel: http://sintel.is.tue.mpg.de/
-
-
 # Different algorithms:
 
 1. DLP: Learning Single Camera Depth Estimation using Dual-Pixels.
@@ -45,17 +37,12 @@ Implementation not available, predictions on google data set found in: https://g
 
 2. SDoF: Synthetic Depth-of-Field with a Single-Camera Mobile Phone
 Implementation not available. 
-I implemented my-self (doesn't look great)
-Implementaion found in: other_algos\DP\dual-pixel-google-stereo-my-implementation.
-It has two steps: google_stereo_test2.mat and then step2_bilateral_2steps.py
 
 3. DPE: Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration
 Implementation in: https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration
-Results from other of fine-tuned model (not published): other_algos\DP\Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration-main\results_DSLR_quantitive_authors - for DSLR data
 
 4. DPdisp: Modeling Defocus-Disparity in Dual-Pixel Sensors
 Implementation found in: https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity/blob/master/README.md
-Works good.
 
 5. SGM: 
 SGM implementation, customed to use BT score instead of SAD. 
