@@ -1,0 +1,13 @@
+1. clone https://github.com/kyamagu/mexopencv
+2. download opencv and opencv_contrib 3.4.1 and extract them 
+ a. https://github.com/opencv/opencv/archive/3.4.1.zip
+ b.  https://github.com/opencv/opencv_contrib/archive/3.4.1.zip
+ 
+3. build opencv with the instruction in
+https://github.com/kyamagu/mexopencv/wiki/Installation-%28Windows%2C-MATLAB%2C-OpenCV-3%29
+
+4.
+ addpath('C:\source\dev\mexopencv')
+addpath('C:\source\dev\mexopencv\opencv_contrib')
+5. mex -setup - choose msv 2017
+6. mexopencv.make('opencv_path','C:\source\dev\build\install\', 'opencv_contrib',true)

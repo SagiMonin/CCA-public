@@ -1,0 +1,22 @@
+im1 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_2018rig_07X7_20180523T152754
+im2 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T104805
+im3 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_2018rig_07X7_20180523T152225
+im5 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scled_images\20180523_mmmm_6527_20180522T161358
+im6 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_2018rig_07X7_20180523T154040
+im7 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_2018rig_07X7_20180523T152330
+im9 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T161307
+im10 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T155127
+im11 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T153609
+im12 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T152835
+im13 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T150521
+im14 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T110409
+im15 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T113126
+im16 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180302_mmmm_6527_20180303T130940
+im18 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180302_mmmm_6527_20180303T131746
+im19 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180319_mmmm_6527_20180318T131222
+im20 -C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180319_mmmm_6527_20180319T111754
+im21 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180319_mmmm_6527_20180318T122655
+im22 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180319_mmmm_6527_20180318T120112
+im23 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T110244
+im24 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180523_mmmm_6527_20180522T152413
+im25 - C:\Users\local_admin\CSGM\DP_data\google2019\test\scaled_images\20180319_mmmm_6527_20180318T120148
