@@ -1,4 +1,7 @@
 ## CCA ##
+Paper: Continuous Cost Aggregation for Dual-Pixel Disparity Extraction
+Link: https://arxiv.org/abs/2306.07921
+
 
 # Description folders
 1. CSGM : folder containing all implementations divided based on data used (DP-DSLR/PHONE, Stereo).
@@ -30,7 +33,7 @@ https://github.com/google-research/google-research/blob/master/dual_pixels/READM
 3. Stereo middlebury:
 https://vision.middlebury.edu/stereo/submit3/
 
-# Different algorithms:
+# Different algorithms (compared in paper):
 
 1. DLP: Learning Single Camera Depth Estimation using Dual-Pixels.
 Implementation not available, predictions on google data set found in: https://github.com/google-research/google-research/blob/master/dual_pixels/README.md
